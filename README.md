@@ -24,8 +24,10 @@ Here are some of the projects that I have worked on using my skills and expertis
         -Kinematics design and simulation 🛠🔧🔩⚙.
 You can also check out my portfolio website (link to portfolio website) where I showcase more of my work and achievements.
 
-Contact and Collaboration 🤝 
-    I am always open to learning new things and collaborating with other developers and engineers. If you are interested in working with me or have any questions or feedback, you can contact me through:
+
+Contact and Collaboration 🤝
+
+I am always open to learning new things and collaborating with other developers and engineers. If you are interested in working with me or have any questions or feedback, you can contact me through:
 
         -Email: mdismailhossainnasim55@gmail.com 📧
         -LinkedIn: https://www.linkedin.com/in/md-ismail-hossain-nasim-6382b3208/ 🔗
