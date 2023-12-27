@@ -33,17 +33,33 @@ Contact and Collaboration 🤝
 
 Licenses, Certifications and Badges:
 
-        -CSWA (https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-S5QDCF7J6M)
-        -Simulink Onramp (https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a4ddf299-1d1e-4a65-ada2-690d46cd0b1a&)
-        -Simscape Onramp (https://matlabacademy.mathworks.com/progress/share/certificate.html?id=398d17a6-dec9-4be2-9033-169414e7a35e&)
-        -Matlab Onramp (https://matlabacademy.mathworks.com/progress/share/certificate.html?id=4da39709-0a2d-47ba-82c3-820f24e2a1ec&)
+        -CSWA 
+            Dassault Systèmes
+                Validation: https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-S5QDCF7J6M
+        -Simulink Onramp 
+            MathWorks
+                Validation: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a4ddf299-1d1e-4a65-ada2-690d46cd0b1a&
+        -Simscape Onramp 
+            MathWorks
+                Validation: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=398d17a6-dec9-4be2-9033-169414e7a35e&
+        -Matlab Onramp
+            MathWorks
+                Validation: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=4da39709-0a2d-47ba-82c3-820f24e2a1ec&
         -Supervised Machine Learning: Regression and Classification
-            DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/73UH4RMKAGXY)
+            DeepLearning.AI 
+                Validation: https://www.coursera.org/account/accomplishments/verify/73UH4RMKAGXY
         -Python 
-            University of Michigan | Coursera (https://www.coursera.org/account/accomplishments/verify/QYRGP2FNK7T7)
-        -C (Programming Language) Linked Skill Assesment Badge (https://www.linkedin.com/skill-assessments/C%20(Programming%20Language)/report/)
-        -SolidWorks Linked Skill Assesment Badge (https://www.linkedin.com/skill-assessments/SOLIDWORKS/report/)
-        -Matlab Linked Skill Assesment Badge (https://www.linkedin.com/skill-assessments/MATLAB/report/)
+            University of Michigan | Coursera 
+                Validation: https://www.coursera.org/account/accomplishments/verify/QYRGP2FNK7T7
+        -C (Programming Language) LinkedIn Skill Assessment Badge 
+            LinkedIn
+                Validation: https://www.linkedin.com/skill-assessments/C%20(Programming%20Language)/report/
+        -SolidWorks LinkedIn Skill Assessment Badge 
+            LinkedIn
+                Validation: https://www.linkedin.com/skill-assessments/SOLIDWORKS/report/
+        -Matlab LinkedIn Skill Assessment Badge 
+            LinkedIn
+                Validation: https://www.linkedin.com/skill-assessments/MATLAB/report/
 <!---
 ihnasim55/ihnasim55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
